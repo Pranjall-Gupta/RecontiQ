@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✨ RecontiQ ✨</h1>
+  <h1> RecontiQ </h1>
   <p><strong>Next-Gen AI-Powered GST Invoice Reconciliation & GSTR-2B Compliance Platform</strong></p>
 
   <p>
@@ -22,7 +22,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 **RecontiQ** is an enterprise-grade tax reconciliation platform engineered to scale automatically with your business. By harnessing the power of advanced AI models (via local Ollama inference) and vector embeddings (PGVector), RecontiQ drastically improves the precision of detecting invoice discrepancies, maximizing ITC (Input Tax Credit) recovery, and ensuring seamless compliance with the GSTR-2B ecosystem.
 
@@ -30,17 +30,17 @@ Whether you are a growing business dealing with hundreds of monthly statements o
 
 ---
 
-## ✨ Core Features
+##  Core Features
 
-- **🧠 Agentic AI Reconciliation**: Intelligent fallback matching logic utilizing Spring AI. It goes beyond simple string matching to perform high-dimensional semantic similarity lookups using PostgreSQL Vector embeddings.
-- **🛡️ Intelligent Risk Scoring**: Integrated Machine Learning algorithms that profile vendor reliability, track compliance history, and flag high-risk discrepancies automatically.
-- **📈 ITC Optimization Dashboard**: High-fidelity operational cash flow analysis that tracks eligible Input Tax Credit (ITC), highlights missing supplier uploads, and calculates potential tax savings.
-- **⚡ High-Performance Caching**: Redis-powered caching for instantaneous dashboard updates, blazingly fast session management, and ultra-low latency API lookups.
-- **🔐 Enterprise Security & Controls**: Secure token-based JWT authentication, granular role-based access control, and strictly enforced CORS rules.
+- ** Agentic AI Reconciliation**: Intelligent fallback matching logic utilizing Spring AI. It goes beyond simple string matching to perform high-dimensional semantic similarity lookups using PostgreSQL Vector embeddings.
+- ** Intelligent Risk Scoring**: Integrated Machine Learning algorithms that profile vendor reliability, track compliance history, and flag high-risk discrepancies automatically.
+- ** ITC Optimization Dashboard**: High-fidelity operational cash flow analysis that tracks eligible Input Tax Credit (ITC), highlights missing supplier uploads, and calculates potential tax savings.
+- ** High-Performance Caching**: Redis-powered caching for instantaneous dashboard updates, blazingly fast session management, and ultra-low latency API lookups.
+- ** Enterprise Security & Controls**: Secure token-based JWT authentication, granular role-based access control, and strictly enforced CORS rules.
 
 ---
 
-## 🏗️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 RecontiQ is built using a modern, decoupled architecture consisting of a high-throughput **Spring Boot** backend monolith and an interactive, state-of-the-art **React 19** single-page application.
 
@@ -63,7 +63,7 @@ graph LR
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 To optimize developer workflows, the frontend and backend projects are fully decoupled inside independent subdirectories:
 
@@ -83,7 +83,7 @@ impact/                       <-- Root Directory (Open in Terminal for Docker Co
 
 ---
 
-## 🚀 Installation & Local Setup
+##  Installation & Local Setup
 
 Get your local environment up and running in minutes by following these step-by-step setup guides.
 
@@ -175,7 +175,7 @@ To override configurations in staging or production environments, you can define
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 When the backend server is running locally, interactive API documentation is fully exposed for quick integration and endpoint exploration:
 

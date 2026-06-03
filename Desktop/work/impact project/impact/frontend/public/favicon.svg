@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 30 28" fill="none">
+  <!-- Simplified Recontiq mark for favicon -->
+  <rect width="30" height="28" fill="transparent" />
+  <path d="M10 4L4 14L10 24" stroke="#4ade80" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M20 4L26 14L20 24" stroke="rgba(0,0,0,0.25)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="15" cy="14" r="2" fill="#4ade80" />
+</svg>

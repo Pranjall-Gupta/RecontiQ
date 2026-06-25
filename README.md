@@ -185,5 +185,5 @@ When the backend server is running locally, interactive API documentation is ful
 ---
 
 <div align="center">
-  <sub>Built with optimized precision and scalability by the RecontiQ Organization.</sub>
+  <sub>Built with precision and scalability by the RecontiQ Organization.</sub>
 </div>

@@ -85,7 +85,7 @@ impact/                       <-- Root Directory (Open in Terminal for Docker Co
 
 ##  Installation & Local Setup
 
-Get your local environment up and running in minutes by following these step-by-step setup guides.
+Get the your local environment up and running in minutes by following these step-by-step setup guides.
 
 ### 1. Prerequisites
 Ensure you have the following installed:
